@@ -1,0 +1,7 @@
+server:
+  port: 3001
+  servlet:
+    context-path: /example
+
+app:
+  message: Hello World default
